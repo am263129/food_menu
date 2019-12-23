@@ -1,0 +1,4 @@
+#Sun Dec 22 15:46:01 PST 2019
+base.0=E\:\\Android\\Saudi\\food_menu\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Android\\Saudi\\food_menu\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-es\\values-es.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Elsa Athel\\.gradle\\caches\\transforms-2\\files-2.1\\6119d746697059b7e1b74aab4d181f56\\appcompat-1.1.0\\res\\values-es\\values-es.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,207,320,428,513,614,742,828,910,1002,1095,1192,1286,1387,1481,1577,1673,1765,1857,1938,2045,2156,2255,2363,2471,2578,2737,2836",
+                        "endColumns": "101,112,107,84,100,127,85,81,91,92,96,93,100,93,95,95,91,91,80,106,110,98,107,107,106,158,98,81",
+                        "endOffsets": "202,315,423,508,609,737,823,905,997,1090,1187,1281,1382,1476,1572,1668,1760,1852,1933,2040,2151,2250,2358,2466,2573,2732,2831,2913"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,34",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "150,252,365,473,558,659,787,873,955,1047,1140,1237,1331,1432,1526,1622,1718,1810,1902,1983,2090,2201,2300,2408,2516,2623,2782,3191",
+                        "endColumns": "101,112,107,84,100,127,85,81,91,92,96,93,100,93,95,95,91,91,80,106,110,98,107,107,106,158,98,81",
+                        "endOffsets": "247,360,468,553,654,782,868,950,1042,1135,1232,1326,1427,1521,1617,1713,1805,1897,1978,2085,2196,2295,2403,2511,2618,2777,2876,3268"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Elsa Athel\\.gradle\\caches\\transforms-2\\files-2.1\\e9dab9c67c1ee3668e0bbf86c6d8cbd8\\core-1.1.0\\res\\values-es\\values-es.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "35",
+                        "startColumns": "4",
+                        "startOffsets": "3273",
+                        "endColumns": "100",
+                        "endOffsets": "3369"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Elsa Athel\\.gradle\\caches\\transforms-2\\files-2.1\\c8508200bb0a7b515cad257d59e01667\\jetified-android-crop-1.0.1\\res\\values-es\\values-es.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "215,289,336,409,468",
+                        "endColumns": "73,46,72,58,56",
+                        "endOffsets": "284,331,404,463,520"
+                    },
+                    "to": {
+                        "startLines": "29,30,31,32,33",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "2881,2955,3002,3075,3134",
+                        "endColumns": "73,46,72,58,56",
+                        "endOffsets": "2950,2997,3070,3129,3186"
+                    }
+                }
+            ]
+        }
+    ]
+}
